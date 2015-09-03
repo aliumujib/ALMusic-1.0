@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:key="preference_key_blacklist_manager"
+        android:title="@string/blacklist_manager"
+        android:icon="@drawable/manage_blacklists" />
+
+    <Preference
+        android:key="preference_key_unblacklist_all"
+        android:title="@string/reset_blacklist"
+        android:icon="@drawable/unblacklist_all" />
+</PreferenceScreen><!-- From: file:/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic%20Player/ALMusic/src/main/res/xml/setting_blacklists.xml -->

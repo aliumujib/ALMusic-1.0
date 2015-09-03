@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search_white_24dp"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/search" />
+
+    <item
+        android:id="@+id/action_queue_drawer"
+        android:icon="@drawable/ic_queue_music_white_24dp"
+        android:orderInCategory="99"
+        android:showAsAction="always"
+        android:title="@string/current_queue" />
+
+    <item
+        android:id="@+id/action_now_playing"
+        android:icon="@drawable/ic_play_circle_filled_white_24dp"
+        android:orderInCategory="98"
+        android:showAsAction="always"
+        android:title="@string/current_queue" />
+
+</menu>

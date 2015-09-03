@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/classes-226e7cc86457d38e6b43311788419f8a5c94e3e2.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/commons-io-2.4-e8dc1380bd8c4bf1218324c8cf64a9fadeeb241c.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/libs/commons-logging.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2d859791fbf7d880591864bd4004d8442a8a3b81">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/commons-logging-fdcdba40506eac7ba02b45e3df7953ed8971e3d0.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/exploded-aar/ALMusic Player/picasso/unspecified/jars/libs/okhttp-2.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/okhttp-2.0.0-3627d78951b4c7f546f32277face6542464cd392.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/libs/com.haarman.listviewanimations-2.6.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="59351ccb0a1631d30358f6a92749a072f2df7602">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/com.haarman.listviewanimations-2.6.0-784e3a02b5c815788b41f349892145393d1a8157.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/exploded-aar/ALMusic Player/viewpagerindicatorlibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="da69efc0d13ff269d460b8cb989b0ad5ae897dad">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/classes-74b4f23c7a0717e4fa8a007c05f322e91f17185d.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/exploded-aar/ALMusic Player/licensesdialoglibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1e0a2a814e68430e1766263abefbb63739786ae1">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/classes-211cae00c3ab2a666200fe865b0b64a6dc2092a3.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/libs/universal-image-loader-1.9.3-with-sources.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="03e3948d42b8d78961a092a184af66bd86da42e6">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-with-sources-dd859764c1ff3be71f0766440312612520d45174.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/exploded-aar/ALMusic Player/quickScroll/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8ebf75afa80b7004277389eae459780199591592">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/classes-03c136e06ca92d2f8497db27fce7cc06ed293692.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/exploded-aar/ALMusic Player/velocityviewpagerlibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3464bba9522b19b9681ff70573354c16ee055315">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/classes-df25492454992e29b4aae6c3df2f5061682bc8e5.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/exploded-aar/com.github.clans/fab/1.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f61181528d587cc6fe45719e4560153935d374c2">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/classes-feb6e527d21c669833ccb7b44194f4c800b56f6a.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/exploded-aar/ALMusic Player/picasso/unspecified/jars/libs/annotations-12.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="bbcf6448f6d40abe506e2c83b70a3e8bfd2b4539">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/annotations-12.0-fe9c6c871f18eca9bdb4931b8008a4dcbd3c3bc5.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/libs/commons-lang3-3.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="905075e6c80f206bbe6cf1e809d2caa69f420c76">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/commons-lang3-3.1-7b2ffe5ef818eebf7403d4d50e8802302e50fede.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/exploded-aar/ALMusic Player/picasso/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="bf194e87c0b86e5a370abf483e63078a44ae79be">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/classes-a03e4b6a62b56342cb7973b556f596badb7b9fa3.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/libs/jaudiotagger-2.0.4-20111207.115108-15.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="64a05cf9050623a0f71fa655ec5407915c481aa7">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/jaudiotagger-2.0.4-20111207.115108-15-a0a6eced8e0e2b119b74c9ff4f3a88c8747eb4a1.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/exploded-aar/com.android.support/palette-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d3aba1c188fea5ee83ebbcb458be29d1cc0ef483">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/classes-faf61f7c11808163dfa1b59602bb845fd36d7d29.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/libs/dashclock-api-r2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7e5decd5bbd057c1a2903be64bfe6f725603cc72">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/dashclock-api-r2.0-8564566dd63fa1a60c05ba90bd43e4966dab5a0c.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/libs/android-async-http-1.4.2-66-g4b6eb97.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d3a2a199d6991050d86c3bb0745b7a1a6f54f471">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/android-async-http-1.4.2-66-g4b6eb97-691adb0b2b8d90b9c28a5d0a53c6febec1f5f7ad.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/libs/google-http-client-1.16.0-rc.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="28ed56f20e8a214ec05d190d6ec4b13656f332a7">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/google-http-client-1.16.0-rc-6a49ecebd6feb05a9ceaebff5bb4fe4751d91f17.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/libs/libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e887c6c9b31b39a39b0eaba981448b78902ea813">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/libGoogleAnalyticsServices-df512abb9eaf377cb1ed7e8d7eabd02eaab85630.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/libs/google-http-client-android-1.16.0-rc.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c2e8114029469943699b390ce14f6c0ff4565807">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/google-http-client-android-1.16.0-rc-b842ff4a8a0741992d1301c576556883117abe99.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/exploded-aar/ALMusic Player/picasso/unspecified/jars/libs/okio-1.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/okio-1.0.0-1d71fa409f9376f82dfb7d354a98ceac9a79242f.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-137f4baf552cca3671c01256938a9d26aeef47cc.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/exploded-aar/ALMusic Player/picasso/unspecified/jars/libs/okhttp-urlconnection-1.6.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="375c2206eb7e52976955d0f8737be5e0ec9cf667">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/okhttp-urlconnection-1.6.0-6a1bbd1a0fd70bbc6908b39acbb402251480c250.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Library/Android/sdk/build-tools/build-tools-20.0.0/renderscript/lib/renderscript-v8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="19d54695d29d5ca94dda30368a7df0b33ffc17d7">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/renderscript-v8-58a6c1a2feffa18a20f7c7dca0789d89e60f1093.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/exploded-aar/ALMusic Player/circularImageView/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1e25057da091c996b90514477d6801bae6fcbfe4">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/classes-db02f9ae671366e4977a1ab1374e4e70074e0c05.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/classes-532f306e5e2c6ec4763702c71507c30af066b808.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-4ca5bf85512d38d7e4a4cfb1cbc5c5245bd9f12a.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/exploded-aar/ALMusic Player/dragsortlistviewlibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ede0eade29499f1972a0983739bc8452e213414b">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/classes-83024b68d59cff9abf0e357e8764ad598957470b.jar" />
+    </item>
+    <item
+        jar="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic Player/ALMusic/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-6c4277dd3c6bfbdcf85fd93737b5d05ea8915f4a.jar" />
+    </item>
+
+</items>

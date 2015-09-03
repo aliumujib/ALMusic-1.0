@@ -1,0 +1,7 @@
+include ':circularImageView', ':picasso', ':aLMusicPlayer', ':library', ':demo'
+include ':quickScroll'
+include ':dragsortlistviewlibrary'
+include ':licensesdialoglibrary'
+include ':velocityviewpagerlibrary'
+include ':viewpagerindicatorlibrary'
+project(':aLMusicPlayer').projectDir = new File('ALMusic')

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:key="preference_key_headphones_unplug_action"
+        android:title="@string/headphones_unplug_action"
+        android:icon="@drawable/headphones" />
+
+    <Preference
+        android:key="preference_key_crossfade_tracks"
+        android:title="@string/crossfade_tracks"
+        android:icon="@drawable/crossfade_tracks" />
+
+    <Preference
+        android:key="preference_key_crossfade_tracks_duration"
+        android:title="@string/crossfade_duration"
+        android:icon="@drawable/crossfade_tracks" />
+
+    <Preference
+        android:key="preference_key_equalizer_toggle"
+        android:title="@string/equalizer"
+        android:icon="@drawable/equalizer" />
+</PreferenceScreen><!-- From: file:/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic%20Player/ALMusic/src/main/res/xml/settings_audio.xml -->

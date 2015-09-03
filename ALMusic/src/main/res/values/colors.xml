@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2012 Andrew Neal
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+<resources>
+
+    <!-- See through -->
+    <color name="transparent">#00000000</color>
+
+    <!-- Black -->
+    <color name="black">#ff000000</color>
+
+    <!-- White -->
+    <color name="white">#ffffffff</color>
+
+    <!-- Transparent black -->
+    <color name="transparent_black">#99000000</color>
+
+    <!-- Transparent white -->
+    <color name="transparent_white">#ffcccccc</color>
+
+    <!-- Dark transparent color -->
+    <color name="list_item_background">#c1000000</color>
+
+    <!-- A darkish color used for the action bar -->
+    <color name="action_bar_color">#ff0d0d0d</color>
+
+    <!-- A light, Holo shade of blue -->
+    <color name="holo_blue_light">#ff33b5e5</color>
+
+    <!-- A light, transparent Holo shade of blue -->
+    <color name="holo_blue_light_transparent">#9933b5e5</color>
+
+    <!-- A light Holo shade of green -->
+    <color name="holo_green_light">#ff99cc00</color>
+    
+    <!-- A dark Holo shade of green -->
+    <color name="holo_green_dark">#ff669900</color>
+
+    <!-- A light Holo shade of red -->
+    <color name="holo_red_light">#ffff4444</color>
+
+    <!-- A Holo shade of purple -->
+    <color name="holo_purple">#ffaa66cc</color>
+
+    <!-- A light Holo shade of orange -->
+    <color name="holo_orange_light">#ffffbb33</color>
+
+    <!-- A dark Holo shade of orange -->
+    <color name="holo_orange_dark">#ffff8800</color>
+
+    <!--Blue Material-->
+    <color name="blue_primaryDark">#0288D1</color>
+    <color name="blue_primaryColor">#03A9F4</color>
+    <color name="blue_primaryLight">#B3E5FC</color>
+    <color name="blue_icons">#FFFFFF</color>
+    <color name="blue_colorAccent">#03A9F4</color>
+    <color name="blue_textPrimary">#212121</color>
+    <color name="blue_textSecondary">#727272</color>
+    <color name="blue_divider">#727272</color>
+
+    <!--Red Material-->
+    <color name="red_primaryDark">#D32F2F</color>
+    <color name="red_primaryColor">#F44336</color>
+    <color name="red_primaryLight">#FFCDD2</color>
+    <color name="red_icons">#FFFFFF</color>
+    <color name="red_colorAccent">#03A9F4</color>
+    <color name="red_textPrimary">#212121</color>
+    <color name="red_textSecondary">#727272</color>
+    <color name="red_divider">#727272</color>
+
+    <!--Green Material-->
+    <color name="green_primaryDark">#388E3C</color>
+    <color name="green_primaryColor">#4CAF50</color>
+    <color name="green_primaryLight">#C8E6C9</color>
+    <color name="green_icons">#FFFFFF</color>
+    <color name="green_colorAccent">#03A9F4</color>
+    <color name="green_textPrimary">#212121</color>
+    <color name="green_textSecondary">#727272</color>
+    <color name="green_divider">#727272</color>
+
+
+    <!--Purple Material-->
+    <color name="purple_primaryDark">#7B1FA2</color>
+    <color name="purple_primaryColor">#9C27B0</color>
+    <color name="purple_primaryLight">#E1BEE7</color>
+    <color name="purple_icons">#FFFFFF</color>
+    <color name="purple_colorAccent">#03A9F4</color>
+    <color name="purple_textPrimary">#212121</color>
+    <color name="purple_textSecondary">#727272</color>
+    <color name="purple_divider">#727272</color>
+
+    <!--Orange Material-->
+    <color name="orange_primaryDark">#F57C00</color>
+    <color name="orange_primaryColor">#FF9800</color>
+    <color name="orange_primaryLight">#FFE0B2</color>
+    <color name="orange_icons">#FFFFFF</color>
+    <color name="orange_colorAccent">#03A9F4</color>
+    <color name="orange_textPrimary">#212121</color>
+    <color name="orange_textSecondary">#727272</color>
+    <color name="orange_divider">#727272</color>
+
+
+    <color name="app_status_bar_accent_lp">#FFC2185B</color>
+
+
+
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="240dp"
+    android:layout_height="wrap_content">
+
+    <ImageView android:id="@+id/imgIcon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:baselineAlignBottom="true"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="16dp"
+        android:contentDescription="@string/img_icon_desc"/>
+
+    <TextView android:id="@+id/nav_drawer_item_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:gravity="center_vertical"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textColor="#FFFFFF"
+        android:minHeight="48dp" />
+
+</LinearLayout>
+
+    <!--<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/nav_drawer_item_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:gravity="center_vertical"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textColor="#FFFFFF"
+        android:minHeight="64dp"/>--><!-- From: file:/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic%20Player/ALMusic/src/main/res/layout/sliding_menu_browsers_layout.xml -->

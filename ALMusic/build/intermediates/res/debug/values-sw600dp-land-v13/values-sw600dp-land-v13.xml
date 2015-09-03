@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic%20Player/ALMusic/src/main/res/values-sw600dp-land/screen.xml -->
+    <eat-comment/>
+    <bool name="landscape">true</bool>
+    <string name="screen_size">small_tablet</string>
+</resources>

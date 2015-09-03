@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic%20Player/ALMusic/src/main/res/values-sw600dp/screen.xml -->
+    <eat-comment/>
+    <bool name="landscape">false</bool>
+    <!-- From: file:/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic%20Player/ALMusic/src/main/res/values-sw600dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="kitkat_nav_bar_margin">0dp</dimen>
+    <dimen name="kitkat_nav_bar_margin_large">30dp</dimen>
+    <dimen name="slidingmenu_offset">300dp</dimen>
+    <!-- From: file:/Users/aliumujib/Documents/AndroidStudioProjects/ALMusic%20Player/ALMusic/src/main/res/values-sw600dp/screen.xml -->
+    <eat-comment/>
+    <string name="screen_size">small_tablet</string>
+</resources>
